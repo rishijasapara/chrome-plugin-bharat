@@ -1,0 +1,3 @@
+import './bharat.js'
+
+export {}
